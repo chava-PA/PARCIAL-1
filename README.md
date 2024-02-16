@@ -1,2 +1,4 @@
-# tarea3
-problema de omega up 3 formulas 
+# PARCIAL 1
+
+problema deL PARCIAL 1
+
