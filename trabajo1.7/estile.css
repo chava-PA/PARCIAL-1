@@ -1,0 +1,40 @@
+
+html{
+  
+    background-color: rgb(163, 202, 209);
+    margin: 3rem;
+    
+    
+ }
+ 
+ 
+ h1{
+     color: rgb(56, 56, 145)
+ }
+ h3{
+     color: rgb(42, 28, 98)
+ }
+
+ .div-menu{
+     color: rgb(8, 8, 8);
+     border: #3b3c3c 14px solid;
+     padding: 2px;
+     margin: 50px 0 10px 10px;
+     columns: 15rem;
+    
+     
+ }
+ .div-menu i{
+
+    color: rgb(175, 19, 19);
+
+
+ }
+ .imgmenu{
+    
+    width: 45px;
+    
+    
+ 
+ }
+ 
